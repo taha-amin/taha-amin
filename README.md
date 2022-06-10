@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! I'm Mohamed 👋🏾
 
 <!--
 **taha-amin/taha-amin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 - I'm currently enrolled at Alchemy Code Lab learning Full Stack Web Development
+
+📍 - Located in Beaverton, Oregon
+
+🔭 - I'm currently working on expanding my knowledge about web development. Which consists of:
+* __Languages__: HTML, CSS, JavaScript, Python
+* __Environments/Frameworks__: React, Material-UI, Node.js
+* __Testing:__ Jes, SuperTest, React Testing Library
+* __Dev Tools__: VScode, Github, Netlify
+* __Databases__: Supabase, Postgres/SQL
+* __Best Practices__: TDD, Pair Programming
+
+
+
+📫 - Feel free to reach out to me at mohamedamin2009ster@gmail.com or [my LinkedIn](https://www.linkedin.com/in/mohaamin// "my-LinkedIn")
+
+Hope to hear from you! ✌🏾
