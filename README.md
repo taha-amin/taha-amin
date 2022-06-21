@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hello+There!+I'm+Mohamed+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=44AC19&lines=Hello+There!+I'm+Mohamed+%F0%9F%91%8B%F0%9F%8F%BE)](https://git.io/typing-svg)
 
 <!--
 ### Hello there! I'm Mohamed 👋🏾
