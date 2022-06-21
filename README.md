@@ -1,6 +1,8 @@
-### Hello there! I'm Mohamed 👋🏾
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hello+There!+I'm+Mohamed+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!--
+### Hello there! I'm Mohamed 👋🏾
 **taha-amin/taha-amin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
