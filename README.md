@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 🔭 - I'm currently working on expanding my knowledge about web development. Which consists of:
 * __Languages__: HTML, CSS, JavaScript, Python
 * __Environments/Frameworks__: React, Material-UI, Node.js
-* __Testing:__ Jes, SuperTest, React Testing Library
+* __Testing:__ Jest, SuperTest, React Testing Library
 * __Dev Tools__: VScode, Github, Netlify
 * __Databases__: Supabase, Postgres/SQL
 * __Best Practices__: TDD, Pair Programming
