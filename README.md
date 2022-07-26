@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 * __Environments/Frameworks__: React, Material-UI, Node.js
 * __Testing:__ Jest, SuperTest, React Testing Library
 * __Dev Tools__: VScode, Github, Netlify
-* __Databases__: Supabase, Postgres/SQL
+* __Databases__: Supabase, Postgres/SQL, MongoDB
 * __Best Practices__: TDD, Pair Programming
 
 
