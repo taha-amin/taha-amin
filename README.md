@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 - I'm currently enrolled at Alchemy Code Lab learning Full Stack Web Development
+🌱 - I'm currently learning TypeScript and Python
 
 📍 - Located in Beaverton, Oregon
 
-🔭 - I'm currently working on expanding my knowledge about web development. Which consists of:
+🔭 - Tech Stack:
 * __Languages__: HTML, CSS, JavaScript, Python
-* __Environments/Frameworks__: React, Material-UI, Node.js, Discord.js
+* __Environments/Frameworks__: React, Material-UI, Node.js, Express.js, Discord.js
 * __Testing:__ Jest, SuperTest, React Testing Library
 * __Dev Tools__: VScode, Github, Netlify, Heroku
-* __Databases__: Supabase, Postgres/SQL, MongoDB
+* __Databases__: Supabase, PostgreSQL, MongoDB
 * __Best Practices__: TDD, Pair Programming
 
 
