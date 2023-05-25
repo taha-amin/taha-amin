@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 📍 - Located in Beaverton, Oregon
 
 🔭 - Tech Stack:
-* __Languages__: HTML, CSS, JavaScript, Python
+* __Languages__: JavaScript, HTML, CSS
 * __Environments/Frameworks__: React, Material-UI, Node.js, Express.js, Discord.js
 * __Testing:__ Jest, SuperTest, React Testing Library
 * __Dev Tools__: VScode, Github, Netlify, Heroku
@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 📫 - Feel free to reach out to me at mohamedamin2009ster@gmail.com or [my LinkedIn](https://www.linkedin.com/in/mohaamin// "my-LinkedIn")
 
 Hope to hear from you! ✌🏾
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taha-amin&layout=compact)](https://github.com/taha-amin/github-readme-stats)
