@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 - Right now I'm working on my portfolio website
+🌱 - I'm currently working on my portfolio website
 
 📍 - Located in Beaverton, Oregon
 
