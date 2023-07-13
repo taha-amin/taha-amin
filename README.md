@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 - I'm currently working on my portfolio website
+🌱 - I'm currently looking for a role where I can use my experiences in full-stack development and work with a passionate team to create innovative software solutions that make a meaningful impact
 
 📍 - Located in Beaverton, Oregon
 
@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 * __Best Practices__: TDD, Pair Programming
 
 
+
+🔭 - You can explore my projects and skills at [mohamedamin.netlify.app](https://mohamedamin.netlify.app/)
 
 📫 - Feel free to reach out to me at mohamedamin2009ster@gmail.com or [my LinkedIn](https://www.linkedin.com/in/mohaamin// "my-LinkedIn")
 
