@@ -22,12 +22,10 @@ Here are some ideas to get you started:
 
 🔭 - Tech Stack:
 * __Languages__: JavaScript, HTML, CSS
-* __Environments/Frameworks__: React, Material-UI, Node.js, Express.js, Discord.js
+* __Environments/Frameworks__: React, Node.js, Express.js, Discord.js
 * __Testing:__ Jest, SuperTest, React Testing Library
-* __Dev Tools__: VScode, Github, Netlify, Heroku
+* __Dev Tools__: VScode, Git, Netlify, Heroku
 * __Databases__: Supabase, PostgreSQL, MongoDB
-* __Best Practices__: TDD, Pair Programming
-
 
 
 🔭 - You can explore my projects and skills at [mohamedamin.netlify.app](https://mohamedamin.netlify.app/)
