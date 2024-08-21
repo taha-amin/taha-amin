@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 🔭 - Tech Stack:
 * __Languages__: JavaScript, HTML, CSS
-* __Environments/Frameworks__: React, Node.js, Express.js, Discord.js
+* __Environments/Frameworks__: React, Node.js, Express.js, Next.js
 * __Testing:__ Jest, SuperTest, React Testing Library
-* __Dev Tools__: VScode, Git, Netlify, Heroku
+* __Dev Tools__: VScode, Git, Netlify, Heroku, Vercel
 * __Databases__: Supabase, PostgreSQL, MongoDB
 
 
