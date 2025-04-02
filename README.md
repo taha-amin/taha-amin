@@ -16,19 +16,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 - I'm currently looking for a role where I can use my experiences in full-stack development and work with a passionate team to create innovative software solutions that make a meaningful impact
+🌱 - Over the years I've delivered optimized, user-focused applications, specializing in scalable web solutions with rich user interfaces built using JavaScript. Currently, I'm building innovative AI agent solutions at [Argoh.dev](https://www.argoh.dev/)
 
 📍 - Located in Beaverton, Oregon
 
 🔭 - Tech Stack:
-* __Languages__: JavaScript, HTML, CSS
+* __Languages__: JavaScript, TypeScript, HTML, CSS
 * __Environments/Frameworks__: React, Node.js, Express.js, Next.js
 * __Testing:__ Jest, SuperTest, React Testing Library
 * __Dev Tools__: VScode, Git, Netlify, Heroku, Vercel
 * __Databases__: Supabase, PostgreSQL, MongoDB
 
 
-🔭 - You can explore my projects and skills at [mohamedamin.netlify.app](https://mohamedamin.netlify.app/)
+🔭 - You can explore my projects and skills on my [portfolio](https://mohamedamin.netlify.app/)
 
 📫 - Feel free to reach out to me at mohamedamin2009ster@gmail.com or [my LinkedIn](https://www.linkedin.com/in/mohaamin// "my-LinkedIn")
 
